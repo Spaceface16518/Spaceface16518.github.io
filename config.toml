@@ -1,0 +1,10 @@
+baseURL = "http://spaceface16518.github.io"
+languageCode = "en-us"
+title = "Amrit Rathie"
+theme = "aether"
+paginate = 3
+canonifyurls = true
+
+[params]
+brand = "Amrit"
+description = "Software developer"
